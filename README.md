@@ -1,10 +1,8 @@
-### Olá!! Eu sou o Chrystian👋
+### Olá Mundo👋
 
-- 💼 Atualmente trabalho com Direito mas em breve pretendo migrar de área.
-- 📖 Estou aprendendo HTML, CSS, JS e JAVA.
-- 😄 Pronome: Ele/Dele
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
 
-  ##
+  ###
 
 <div align="center">
   <a href="https://github.com/odevMiguel">
@@ -21,7 +19,7 @@
  
 <div> 
     <a href="https://www.linkedin.com/in/miguel-victor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:miguel0046@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"</a>
+  <a href = "mailto:miguel0046@outlook.com"><img align="center" alt="mail" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"</a>
    
   
   ##
