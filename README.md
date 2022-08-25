@@ -1,5 +1,5 @@
 ### Olá Mundo👋
-
+- 💼 Atualmente à procura de um emprego.
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
 
   ###
@@ -20,10 +20,4 @@
 <div> 
     <a href="https://www.linkedin.com/in/miguel-victor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:miguel0046@outlook.com"><img align="top" alt="mail" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"</a>
-   
-  
-  
- 
- 
- 
 </div>
