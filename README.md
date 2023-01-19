@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/victorMiiguel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorMiiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorMiiguel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorMiiguel&show_icons=true&theme=transparent/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,5 +18,5 @@
  
 <div> 
     <a href="https://www.linkedin.com/in/miguel-victor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:miguel0046@outlook.com"><img align="top" alt="mail" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"</a>
+  <a href = "mailto:miguel.amaral1@outlook.com"><img align="top" alt="mail" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"</a>
 </div>
