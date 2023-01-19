@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/victorMiiguel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorMiiguel&show_icons=true&theme=transparent/>
 </div>
 
 <div style="display: inline_block"><br>
